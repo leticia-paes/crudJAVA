@@ -12,7 +12,7 @@ public class IndianDemo {
 		int ch;
 		do {
 			System.out.println("1. INSERT");
-			System.out.println("2. DISPLAY");
+			System.out.println("2. DISPLAY ALL EMPLOYEES");
 			System.out.println("3. SEARCH");
 			System.out.println("4. DELETE");
 			System.out.println("5. UPDATE");
